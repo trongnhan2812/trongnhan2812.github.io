@@ -1,0 +1,1015 @@
+/* screen - index */
+
+.index {
+    align-items: center;
+    background-color: var(--white);
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 4000px;
+    width: 1920px;
+  }
+  
+  .index .flex-col {
+    flex-direction: column;
+    min-height: 1197px;
+    width: 1920px;
+  }
+  
+  .index .navbar {
+    height: 94px;
+    position: relative;
+    width: 1920px;
+  }
+  
+  .index .rectangle-1 {
+    background-color: #eeebeb;
+    height: 85px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1920px;
+  }
+  
+  .index .polkadot-logo-1 {
+    height: 94px;
+    left: 56px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .index .navbar-link-ecosystem {
+    left: 457px;
+    width: 149px;
+  }
+  
+  .index .navbar-link-features {
+    left: 723px;
+    white-space: nowrap;
+  }
+  
+  .index .navbar-link-development {
+    left: 945px;
+    white-space: nowrap;
+  }
+  
+  .index .navbar-link-about {
+    left: 1210px;
+    white-space: nowrap;
+  }
+  
+  .index .rectangle-2 {
+    height: 74px;
+    left: 1515px;
+    position: absolute;
+    top: 4px;
+    width: 310px;
+  }
+  
+  .index .navbar-link-talk-to-an-export {
+    left: 1590px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 29px;
+    white-space: nowrap;
+  }
+  
+  .index .line-1 {
+    height: 1px;
+    left: 250px;
+    object-fit: cover;
+    position: absolute;
+    top: 38px;
+    width: 29px;
+  }
+  
+  .index .line-2 {
+    height: 1px;
+    left: 250px;
+    object-fit: cover;
+    position: absolute;
+    top: 46px;
+    width: 29px;
+  }
+  
+  .index .line-3 {
+    height: 1px;
+    left: 250px;
+    object-fit: cover;
+    position: absolute;
+    top: 54px;
+    width: 29px;
+  }
+  
+  .index .vector-1 {
+    left: 567px;
+  }
+  
+  .index .vector-2 {
+    left: 811px;
+  }
+  
+  .index .vector-3 {
+    left: 1076px;
+  }
+  
+  .index .vector-4 {
+    left: 1273px;
+  }
+  
+  .index .this-is-blockchain-unbounded {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 2.0px;
+    margin-top: 19px;
+    min-height: 129px;
+    text-align: center;
+    width: 452px;
+  }
+  
+  .index .parachains-are-advan {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-m);
+    font-weight: 300;
+    margin-right: 124.0px;
+    min-height: 48px;
+    min-width: 1352px;
+  }
+  
+  .index .overlap-group4 {
+    align-items: center;
+    background-color: #140523;
+    display: flex;
+    flex-direction: column;
+    margin-top: 31px;
+    min-height: 281px;
+    padding: 13px 0;
+    width: 1920px;
+  }
+  
+  .index .parachains-possibilities {
+    color: var(--white);
+    font-size: var(--font-size-xl);
+    font-weight: 700;
+    min-height: 106px;
+    width: 280px;
+  }
+  
+  .index .while-other-blockcha {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 144px;
+    min-width: 660px;
+    text-align: center;
+  }
+  
+  .index .flex-row {
+    height: 129px;
+    margin-right: 106.99px;
+    margin-top: 48px;
+    min-width: 1283px;
+  }
+  
+  .index .group-2 {
+    align-items: flex-start;
+    display: flex;
+    margin-top: 14.99px;
+    min-width: 44px;
+    transform: rotate(180deg);
+  }
+  
+  .index .overlap-group1 {
+    height: 24px;
+    position: relative;
+    width: 42px;
+  }
+  
+  .index .line-5 {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 10px;
+    transform: rotate(-180deg);
+    width: 29px;
+  }
+  
+  .index .text {
+    left: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .index .overlap-group7 {
+    align-self: flex-start;
+    height: 118px;
+    margin-left: 40px;
+    position: relative;
+    width: 570px;
+  }
+  
+  .index .legacy-blockchains {
+    left: 185px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .index .x1-size-fits-none {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: 32px;
+    font-weight: 700;
+    left: 141px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 19px;
+    width: 311px;
+  }
+  
+  .index .a-single-limiting-d {
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 56px;
+    width: 570px;
+  }
+  
+  .index .line-4 {
+    align-self: flex-end;
+    height: 128px;
+    margin-left: 34px;
+    object-fit: cover;
+    width: 2px;
+  }
+  
+  .index .flex-col-1 {
+    align-items: center;
+    gap: 2px;
+    margin-bottom: 6.01px;
+    margin-left: 48px;
+    min-height: 113px;
+    width: 423px;
+  }
+  
+  .index .overlap-group10 {
+    height: 54px;
+    margin-right: 44.0px;
+    position: relative;
+    width: 179px;
+  }
+  
+  .index .parachains {
+    color: #d751b2;
+    font-size: var(--font-size-m);
+    font-weight: 600;
+    left: 24px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .index .specialized {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: 32px;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 15px;
+  }
+  
+  .index .parachains-are-speci {
+    min-height: 57px;
+    width: 423px;
+  }
+  
+  .index .overlap-group {
+    height: 24px;
+    margin-left: 78px;
+    margin-top: 28.99px;
+    position: relative;
+    width: 42px;
+  }
+  
+  .index .line-5-1 {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 14px;
+    width: 29px;
+  }
+  
+  .index .image-1-2 {
+    height: 60px;
+    margin-right: 13.0px;
+    margin-top: 30px;
+    object-fit: cover;
+    width: 187px;
+  }
+  
+  .index .a-parachain-for-every-purpose {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-right: 14.0px;
+    margin-top: 36px;
+    min-height: 119px;
+    text-align: center;
+    width: 472px;
+  }
+  
+  .index .parachains-can-be-bu {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-l);
+    font-weight: 200;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-right: 14.0px;
+    margin-top: 11px;
+    min-height: 162px;
+    text-align: center;
+    width: 700px;
+  }
+  
+  .index .flex-row-1 {
+    align-items: flex-start;
+    display: flex;
+    height: 175px;
+    margin-right: 29.0px;
+    margin-top: 28px;
+    min-width: 1347px;
+  }
+  
+  .index .overlap-group6 {
+    height: 152px;
+    margin-top: 2px;
+    position: relative;
+    width: 335px;
+  }
+  
+  .index .image {
+    height: 87px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 87px;
+  }
+  
+  .index .independent-token-ec {
+    left: 7px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 86px;
+    width: 328px;
+  }
+  
+  .index .overlap-group9 {
+    align-self: flex-end;
+    height: 174px;
+    margin-left: 173px;
+    position: relative;
+    width: 421px;
+  }
+  
+  .index .system-parachains-de {
+    left: 8px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 85px;
+    width: 413px;
+  }
+  
+  .index .flex-col-2 {
+    align-items: flex-start;
+    gap: 3px;
+    margin-left: 81px;
+    min-height: 175px;
+    width: 337px;
+  }
+  
+  .index .image-1 {
+    height: 87px;
+    object-fit: cover;
+    width: 87px;
+  }
+  
+  .index .bridge-parachains-br {
+    align-self: flex-end;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 85px;
+    width: 324px;
+  }
+  
+  .index .flex-col-3 {
+    align-items: center;
+    margin-top: 37px;
+    min-height: 2512px;
+    width: 1920px;
+  }
+  
+  .index .image-container {
+    align-items: flex-start;
+    display: flex;
+    margin-right: 279.0px;
+    min-width: 1097px;
+  }
+  
+  .index .image-6 {
+    height: 87px;
+    margin-left: 414px;
+    object-fit: cover;
+    width: 87px;
+  }
+  
+  .index .image-7 {
+    height: 87px;
+    margin-left: 422px;
+    object-fit: cover;
+    width: 87px;
+  }
+  
+  .index .para-container {
+    align-items: center;
+    display: flex;
+    height: 78px;
+    margin-right: 19.0px;
+    margin-top: 9px;
+    min-width: 1337px;
+  }
+  
+  .index .parachain-hubs-parac {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 78px;
+    width: 363px;
+  }
+  
+  .index .smart-contract-parac {
+    align-self: flex-end;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 142px;
+    min-height: 74px;
+    width: 378px;
+  }
+  
+  .index .parathreads-pay-as-y {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 134px;
+    margin-top: 2.0px;
+    min-height: 72px;
+    width: 320px;
+  }
+  
+  .index .flex-row-2 {
+    align-items: flex-start;
+    display: flex;
+    gap: 135px;
+    height: 527px;
+    margin-right: 44.0px;
+    margin-top: 144px;
+    min-width: 1188px;
+  }
+  
+  .index .parachains-as-autono {
+    align-self: flex-end;
+    min-height: 468px;
+    width: 616px;
+  }
+  
+  .index .image-8 {
+    height: 438px;
+    object-fit: cover;
+    width: 437px;
+  }
+  
+  .index .overlap-group8 {
+    height: 572px;
+    margin-left: 168.0px;
+    position: relative;
+    width: 962px;
+  }
+  
+  .index .parachains-as-digita {
+    left: 539px;
+    position: absolute;
+    top: 0;
+    width: 423px;
+  }
+  
+  .index .auctions-crowdloans {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-xxxxl);
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 428px;
+    width: 598px;
+  }
+  
+  .index .overlap-group3 {
+    height: 297px;
+    margin-right: 197.0px;
+    margin-top: 25px;
+    position: relative;
+    width: 763px;
+  }
+  
+  .index .parachains-connect-t {
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 763px;
+  }
+  
+  .index .rectangle-4 {
+    border: 1px solid;
+    border-color: var(--black);
+    border-radius: 36px;
+    height: 60px;
+    left: 263px;
+    position: absolute;
+    top: 237px;
+    width: 238px;
+  }
+  
+  .index .learn-more {
+    left: 315px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 251px;
+  }
+  
+  .index .overlap-group5 {
+    height: 455px;
+    margin-top: 61px;
+    position: relative;
+    width: 1920px;
+  }
+  
+  .index .rectangle-5 {
+    background-color: var(--alto);
+    height: 439px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1920px;
+  }
+  
+  .index .ecosystem {
+    left: 163px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 52px;
+    width: 204px;
+  }
+  
+  .index .features {
+    left: 568px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 52px;
+    width: 166px;
+  }
+  
+  .index .development {
+    left: 882px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 52px;
+    width: 243px;
+  }
+  
+  .index .about {
+    left: 1317px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 52px;
+    width: 115px;
+  }
+  
+  .index .newsletter {
+    left: 1554px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 52px;
+    width: 219px;
+  }
+  
+  .index .community-treasury-t {
+    left: 153px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 120px;
+    width: 207px;
+  }
+  
+  .index .technology-dot-token {
+    left: 554px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 119px;
+    width: 214px;
+  }
+  
+  .index .documentation-grants {
+    left: 876px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 120px;
+    width: 255px;
+  }
+  
+  .index .about-polkadot-blog {
+    left: 1288px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 119px;
+    width: 173px;
+  }
+  
+  .index .subscribe-to-the-new {
+    left: 1583px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 120px;
+    width: 315px;
+  }
+  
+  .index .rectangle-10 {
+    border: 1px solid;
+    border-color: var(--black);
+    border-radius: 29px;
+    height: 46px;
+    left: 1611px;
+    position: absolute;
+    top: 243px;
+    width: 219px;
+  }
+  
+  .index .subscribe {
+    color: var(--black);
+    font-family: var(--font-family-irish_grover);
+    font-size: var(--font-size-l);
+    font-weight: 400;
+    left: 1664px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 252px;
+  }
+  
+  .index .line-6 {
+    height: 1px;
+    margin-left: 44.0px;
+    margin-top: 44px;
+    object-fit: cover;
+    width: 1760px;
+  }
+  
+  .index .flex-row-3 {
+    align-items: center;
+    display: flex;
+    margin-left: 44.0px;
+    margin-top: 109px;
+    min-width: 1760px;
+  }
+  
+  .index .polkadot-logo-2 {
+    height: 103px;
+  }
+  
+  .index .copyright {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 58px;
+    margin-top: 12.0px;
+    min-height: 31px;
+    min-width: 280px;
+  }
+  
+  .index .span1 {
+    text-decoration: underline;
+  }
+  
+  .index .line-7 {
+    height: 41px;
+    margin-left: 36px;
+    margin-top: 23.0px;
+    object-fit: cover;
+    width: 1px;
+  }
+  
+  .index .legal-disclosures {
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 38px;
+    margin-top: 12.0px;
+    min-height: 31px;
+    min-width: 192px;
+    text-decoration: underline;
+  }
+  
+  .index .line {
+    align-self: flex-end;
+    height: 41px;
+    margin-bottom: 15.39px;
+    margin-left: 35px;
+    object-fit: cover;
+    width: 1px;
+  }
+  
+  .index .disclaimer {
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 37px;
+    margin-top: 12.0px;
+    min-height: 31px;
+    min-width: 119px;
+    text-decoration: underline;
+  }
+  
+  .index .privacy {
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 37px;
+    margin-top: 12.0px;
+    min-height: 31px;
+    min-width: 84px;
+    text-decoration: underline;
+  }
+  
+  .index .image-9 {
+    height: 24px;
+    margin-left: 238px;
+    margin-top: 15.0px;
+    object-fit: cover;
+    width: 24px;
+  }
+  
+  .index .image-10 {
+    height: 24px;
+    margin-left: 73px;
+    margin-top: 15.0px;
+    object-fit: cover;
+    width: 24px;
+  }
+  
+  .index .image-11 {
+    height: 24px;
+    margin-left: 69px;
+    margin-top: 15.0px;
+    object-fit: cover;
+    width: 24px;
+  }
+  
+  .index .image-1-1 {
+    height: 24px;
+    margin-left: 63px;
+    margin-top: 15.0px;
+    object-fit: cover;
+    width: 24px;
+  }
+  
+  .index .flex {
+    align-items: center;
+    display: flex;
+  }
+  
+  .index .flex-col-4 {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .index .navbar-link {
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 28px;
+  }
+  
+  .index .parachains-1 {
+    font-family: var(--font-family-inter);
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+  }
+  
+  .index .parachains-are {
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+  }
+  
+  .index .parachains-as {
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .index .polkadot-logo {
+    object-fit: cover;
+    width: 180px;
+  }
+  
+  .index .vector {
+    height: 12px;
+    position: absolute;
+    top: 38px;
+    width: 23px;
+  }
+  @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+  @import url("https://fonts.googleapis.com/css?family=Inter:200,700,600,300,400|Irish+Grover:400|Inika:400");
+  /* The following line is used to measure usage of this code. You can remove it if you want. */
+  @import url("https://px.animaapp.com/64ab66698d66ab0413f143f0.64ab666beb625b706c497b5f.64ab7ef4314c907cf3acd178.hcp.png");
+  
+  
+  
+  .screen a {
+    display: contents;
+    text-decoration: none;
+  }
+  
+  .container-center-horizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    pointer-events: none;
+    width: 100%;
+  }
+  
+  .container-center-horizontal > * {
+    flex-shrink: 0;
+    pointer-events: auto;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  :root { 
+    --alto: #d9d9d9;
+    --black: #000000;
+    --frostbite: #ee3ba6;
+    --white: #ffffff;
+   
+    --font-size-l: 24px;
+    --font-size-m: 20px;
+    --font-size-s: 16px;
+    --font-size-xl: 36px;
+    --font-size-xxl: 40px;
+    --font-size-xxxl: 48px;
+    --font-size-xxxxl: 64px;
+   
+    --font-family-inika: "Inika", Helvetica;
+    --font-family-inter: "Inter", Helvetica;
+    --font-family-irish_grover: "Irish Grover", Helvetica;
+  }
+  .inter-semi-bold-black-24px {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-l);
+    font-style: normal;
+    font-weight: 600;
+  }
+  
+  .inter-bold-black-16px {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-s);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .inter-normal-black-20px {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .inter-normal-black-16px {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-s);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .inika-normal-black-24px {
+    color: var(--black);
+    font-family: var(--font-family-inika);
+    font-size: var(--font-size-l);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .inter-semi-bold-frostbite-24px {
+    color: var(--frostbite);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-l);
+    font-style: normal;
+    font-weight: 600;
+  }
+  
+  .inter-bold-black-40px {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-xxl);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .inter-extra-light-black-20px {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 200;
+  }
+  
+  .inter-normal-white-20px {
+    color: var(--white);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .inter-bold-black-48px {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-xxxl);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .inter-semi-bold-black-20px {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 600;
+  }
+  
+  .inter-normal-black-24px {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-l);
+    font-style: normal;
+    font-weight: 400;
+  }
+    
